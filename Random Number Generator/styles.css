@@ -1,0 +1,23 @@
+body {
+  background-color: #ce9999;
+  background-image: url(https://loremflickr.com/red/320/240/paris) ;
+ background-repeat: no-repeat;
+ background-size: cover;
+  font-family: 'Roboto', sans-serif;
+color: #291616;
+}
+
+
+.top{
+    height: 300px;
+}
+
+
+.box {
+  padding: 30px 60px 40px;
+  border-radius: 10px;
+  background-image: linear-gradient(#ffebeb, #d77373);
+  width: 600px;
+  margin: auto;
+  box-shadow: 10px 10px 20px #010101;
+}
